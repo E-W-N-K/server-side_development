@@ -2,3 +2,10 @@ target/
 .idea/
 *.iml
 *.tmp
+
+# Локальные результаты сборки и подготовки отчётов
+*.class
+/report-assets/
+/template-media/
+/Capture.java
+/TerminalShot.java
